@@ -1,0 +1,1 @@
+An advanced HTTP fuzzing tool designed for penetration testing, feauturing capabilities like protocol obfuscation, payload encryption, traffic fragmentation and proxy chaining to stealthlly test web application vulnurabilities.
